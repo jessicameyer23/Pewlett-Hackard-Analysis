@@ -3,7 +3,7 @@
 ## Results
 
 A.  Deliverable 1:  The Number of Retiring Employees by Title
-![image_name](https://github.com/jessicameyer23/Pewlett-Hackard-Analysis/blob/main/mentorshipeligibility.png)
+![image_name](https://github.com/jessicameyer23/Pewlett-Hackard-Analysis/blob/main/retiringtitles.png)
 
 
 
