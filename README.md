@@ -25,7 +25,7 @@ B.  Deliverable 2:  The Employees Eligible for the Mentorship Program:
 ![image_name](https://github.com/jessicameyer23/Pewlett-Hackard-Analysis/blob/main/mentorshipeligibility.png)
 
 ## Summary:
-`Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?  72,458 roles will need to be filled as those are the expected total number of retirees.  
 2.  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  There are enough mentors available to train engineers and staff as well as technical leaders.
 3.  While it does not appear that there are many managers who will be retiring, only 2, it appears that there are most likely already a large number of managers that are not near retirement age.  
