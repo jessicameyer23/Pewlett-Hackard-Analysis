@@ -6,7 +6,7 @@ The background and overview of the project is that we are expecting a very large
 A.  Deliverable 1:  The Number of Retiring Employees by Title
 1.  The first deliverable (as shown in the image below), which is the number of retiring employees by title, shows that the expected retirees are concentrated in the engineer level, 36,291/72,458, which is 50% of total expected retirees.
 2.  There are very limited number of manager retirees, with only 2 expected retirees at the manager level.
-3. 
+
 
 ![image_name](https://github.com/jessicameyer23/Pewlett-Hackard-Analysis/blob/main/retiringtitles.png)
 
